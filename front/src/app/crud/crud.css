@@ -1,0 +1,17 @@
+form{
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.ocultarId{
+    display: none;
+}
+
+.larguraCampos{
+    width: 100%;
+}
+
+.espacamentoBotao{
+    margin-left: 5px;
+}
